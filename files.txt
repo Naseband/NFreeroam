@@ -1,5 +1,7 @@
 SAMPDL Index
 Version = 1
-FILE: models/txd/nfreeroam.txd
-FILE: SAMP/custom.ide
-FILE: SAMP/custom.img
+
+# Files
+models/txd/nfreeroam.txd
+SAMP/custom.ide
+SAMP/custom.img
