@@ -1,0 +1,3 @@
+models/txd/nfreeroam.txd
+SAMP/custom.ide
+SAMP/custom.img
